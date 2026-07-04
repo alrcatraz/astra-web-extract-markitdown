@@ -1,0 +1,7 @@
+name: web-extract-markitdown
+version: 1.0.0
+description: >-
+  Replace web_extract with a local markitdown-mcp backend. Converts URLs to
+  markdown via the Microsoft MarkItDown library. Inherits GLM vision model
+  for OCR on images and scanned PDFs. Audio/video conversion is planned but
+  not yet implemented.
