@@ -7,6 +7,7 @@ description: >-
   Inherits GLM vision model for OCR via the existing markitdown-mcp config.
 category: devops
 version: 1.0.0
+author: alrcatraz
 ---
 
 # Web Extract via MarkItDown
