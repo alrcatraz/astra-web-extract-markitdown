@@ -4,6 +4,15 @@ A [Hermes Agent](https://hermes-agent.nousresearch.com) plugin that replaces
 the built-in `web_extract` tool with a local backend powered by
 [Microsoft MarkItDown](https://github.com/microsoft/markitdown).
 
+<div align="center">
+
+[![License](https://badgen.net/github/license/alrcatraz/astra-web-extract-markitdown)](LICENSE)
+[![GitHub stars](https://badgen.net/github/stars/alrcatraz/astra-web-extract-markitdown)](https://github.com/alrcatraz/astra-web-extract-markitdown)
+[![GitHub last commit](https://badgen.net/github/last-commit/alrcatraz/astra-web-extract-markitdown)](https://github.com/alrcatraz/astra-web-extract-markitdown/commits)
+[![Sponsor](https://img.shields.io/github/sponsors/alrcatraz?label=Sponsor&logo=github&color=ea4aaa&logoColor=white)](https://github.com/sponsors/alrcatraz)
+
+</div>
+
 ## Why
 
 The built-in `web_extract` requires an API key for Firecrawl, Tavily, or Exa.
